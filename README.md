@@ -6,7 +6,6 @@
   </p>
 </div>
 
-
 Everyone working on this project is a member of the <a href="https://fintechsociety.comp.nus.edu.sg/"><strong>NUS Fintech Society</strong></a>'s <a href="https://medium.com/@nusfintech.ml"> Machine Learning Department</a>.  
 
 Link to the article:   
@@ -36,7 +35,8 @@ Using a dataset about loan transactions from 2009 to 2017 on the P2P platform Pr
 
 Prosper Loan Data, Henry Okam, October 2022, https://www.kaggle.com/datasets/henryokam/prosper-loan-data
 
-<h4 align="center"> Project File Directory:   </h4>  
+<h4 align="center"> Project File Directory:   </h4>    
+
 | Category | File | 
 | --- | --- |
 | EDA | <a href="https://github.com/PopKobs/P2P_credit_scoring/blob/main/feature_EDA_2.ipynb"> feature_EDA_2.ipynb </a> | 
