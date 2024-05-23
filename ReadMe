@@ -1,4 +1,6 @@
 A study of credit scoring using 3 types of classifiers: logistic regression, neural network & random forest.
+Everyone working on this project is a member of the NUS Fintech Society.
+Link to the article: 
 
 Summary:
 Using a dataset about loan transactions from 2009 to 2017 on the P2P platform Prosper, we set out to compare the 3 types of classifiers & their performance at performing a binary classification of whether a potential lender, 
