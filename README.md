@@ -1,24 +1,13 @@
 <div align="center">
-  
-
 <h3 align="center"> A comparison of various classifiers' performance at credit scoring for P2P loans</h3>
 
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    A study of credit scoring using 3 types of classifiers: logistic regression, neural network & random forest.  
   </p>
 </div>
 
-A study of credit scoring using 3 types of classifiers: logistic regression, neural network & random forest.  
-Everyone working on this project is a member of the <a href="https://fintechsociety.comp.nus.edu.sg/"><strong>NUS Fintech Society</strong></a>  
+
+Everyone working on this project is a member of the <a href="https://fintechsociety.comp.nus.edu.sg/"><strong>NUS Fintech Society</strong></a>'s <a href="https://medium.com/@nusfintech.ml"> Machine Learning Department</a>.
 Link to the article:   
 
 
