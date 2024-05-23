@@ -7,7 +7,8 @@
 </div>
 
 
-Everyone working on this project is a member of the <a href="https://fintechsociety.comp.nus.edu.sg/"><strong>NUS Fintech Society</strong></a>'s <a href="https://medium.com/@nusfintech.ml"> Machine Learning Department</a>.
+Everyone working on this project is a member of the <a href="https://fintechsociety.comp.nus.edu.sg/"><strong>NUS Fintech Society</strong></a>'s <a href="https://medium.com/@nusfintech.ml"> Machine Learning Department</a>.  
+
 Link to the article:   
 
 
