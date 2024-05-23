@@ -12,7 +12,7 @@ Everyone working on this project is a member of the <a href="https://fintechsoci
 Link to the article:   
 
 
-Summary:  
+<h4 align="center"> Summary:  </h4>
 
 Using a dataset about loan transactions from 2009 to 2017 on the P2P platform Prosper, we set out to compare the 3 types of classifiers & their performance at performing a binary classification of whether a potential lender, based on the loan request issued, is either likely or unlikely to repay the loan.  
 
