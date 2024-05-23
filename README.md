@@ -20,7 +20,7 @@ Using a dataset about loan transactions from 2009 to 2017 on the P2P platform Pr
 
 <h5 align="center"> Code Implementation:   </h5>
 
-| Name | Role | GitHub Profile | Contributions to Source Code
+| Name | Role | GitHub Profile | Contributions to Source Code |
 | --- | --- | --- | --- |
 | Koby Chua | Tech Lead | @PopKobs | EDA, Random Forest implementation |
 | Lee Wen Yeong | Neural Network Lead | @harvestingmoon | EDA, Neural Network implementation |
@@ -37,12 +37,13 @@ Using a dataset about loan transactions from 2009 to 2017 on the P2P platform Pr
 Prosper Loan Data, Henry Okam, October 2022, https://www.kaggle.com/datasets/henryokam/prosper-loan-data
 
 
-<h4 align="center"> Project File Directory:   </h4>
+<h4 align="center"> Project File Directory:   </h4>  
+
 | Category | File | 
 | --- | --- |
 | EDA | <a href="https://github.com/PopKobs/P2P_credit_scoring/blob/main/feature_EDA_2.ipynb"> feature_EDA_2.ipynb </a> | 
 | Neural Network | <a href="https://github.com/PopKobs/P2P_credit_scoring/blob/main/NN_notebook%20Final.ipynb"> NN_notebook final.ipynb </a> | 
-| Random Forest | <a href="https://github.com/PopKobs/P2P_credit_scoring/blob/main/Forest.ipynb"> Forest.ipynb </a> | 
 
+| Random Forest | <a href="https://github.com/PopKobs/P2P_credit_scoring/blob/main/Forest.ipynb"> Forest.ipynb </a> | 
 | Logistic Regression | <a href="https://github.com/PopKobs/P2P_credit_scoring/blob/main/LogReg.ipynb"> LogReg.ipynb </a> | 
 
