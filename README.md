@@ -13,7 +13,7 @@ Link to the article:
 
 <h4 align="center"> Summary:  </h4>
 
-Using a dataset about loan transactions from 2009 to 2017 on the P2P platform Prosper, we set out to compare the 3 types of classifiers & their performance at performing a binary classification of whether a potential lender, based on the loan request issued, is either likely or unlikely to repay the loan.  
+Using a dataset about loan transactions from 2009 to 2017 on the P2P platform Prosper, we set out to compare the 3 types of classifiers & their performance at performing a classification of whether a potential lender, based on the loan request issued, is either likely or unlikely to repay the loan.  
 
 <h4 align="center"> Credits:   </h4>
 
@@ -28,7 +28,7 @@ Using a dataset about loan transactions from 2009 to 2017 on the P2P platform Pr
 | Sparsh Kumar | Random Forest co-lead | @justsparsh | Random Forest implementation  |
 | Yang Yee | Random Forest co-lead | @yangyee-hub | Random Forest implementation & performance measures  |
 | Peh Ting Xuan | Logistic Regression co-lead | @tingxuanp | Logistic Regression implementation |
-| Peh Ting Xuan | Logistic Regression co-lead | @tingxuanp | Logistic Regression implementation |
+| Lionel See | Logistic Regression co-lead | @lionsee77 | Logistic Regression implementation |
 
 
 <h5 align="center"> Datasource:    </h5>
