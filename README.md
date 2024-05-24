@@ -2,7 +2,7 @@
 <h3 align="center"> A comparison of various classifiers' performance at credit scoring for P2P loans</h3>
 
   <p align="center">
-    A study of credit scoring using 3 types of classifiers: logistic regression, neural network & random forest.  
+    A study of credit scoring using 3 types of classifiers: logistic regression, neural network & random forest, implemented as a ensemble learning hard voting classifier.  
   </p>
 </div>
 
