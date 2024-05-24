@@ -33,7 +33,7 @@ Using a dataset about loan transactions from 2009 to 2017 on the P2P platform Pr
 | Koby Chua | Tech Lead | @PopKobs | EDA, Random Forest implementation |
 | Lee Wen Yeong | Neural Network Lead | @harvestingmoon | EDA, Neural Network implementation |
 | Jerry Yang | EDA Lead | @mcxraider | EDA, Neural Network implementation |
-| Tan Jing Jie | Neural Network co-lead | @jjtan444 | Neural Network implementation |
+| Tan Jing Jie | Neural Network & EDA co-lead | @jjtan444 | Neural Network implementation |
 | Sparsh Kumar | Random Forest co-lead | @justsparsh | Random Forest implementation  |
 | Yang Yee | Random Forest co-lead | @yangyee-hub | Random Forest implementation & performance measures  |
 | Peh Ting Xuan | Logistic Regression co-lead | @tingxuanp | Logistic Regression implementation |
